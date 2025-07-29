@@ -39,8 +39,8 @@ const BOT_NUMBER = process.env.BOT_NUMBER || envv2.BOT_NUMBER;
 const SESSION_ID = process.env.SESSION_ID || envv2.SESSION_ID;
 
 module.exports = {
-    SESSION_ID,
-    BOT_NUMBER,
-    GITHUB_USERNAME: username,
+    SESSION_ID 'PRABATH-MD~i0zl33VDVQDJR3x'
+    BOT_NUMBER, 923275374285
+    GITHUB_USERNAME: ASAD,
     GITHUB_AUTH_TOKEN: GITHUB_TOKEN,
 };
