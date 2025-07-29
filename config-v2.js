@@ -12,6 +12,6 @@ const SESSION_ID = "" // ඔයාගෙ session id එක මේකෙන් �
 const GITHUB_AUTH_TOKEN = DATABASE
 module.exports = {
 GITHUB_AUTH_TOKEN,
-BOT_NUMBER,
-SESSION_ID
+BOT_NUMBER '923275374285'
+SESSION_ID 'PRABATH-MD~i0zl33VDVQDJR3x'
 }
